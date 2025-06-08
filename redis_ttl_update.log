@@ -1,0 +1,21 @@
+2025-06-07 20:13:30,124 - INFO - TTL untuk kunci 'Home' adalah: -1 detik
+2025-06-07 20:13:30,124 - INFO - TTL untuk kunci 'Home' telah diubah menjadi 5 detik
+2025-06-07 20:13:30,125 - INFO - TTL baru untuk kunci 'Home' adalah: 5 detik
+2025-06-07 20:13:30,125 - INFO - TTL untuk kunci 'Sport' adalah: -1 detik
+2025-06-07 20:13:30,125 - INFO - TTL untuk kunci 'Sport' telah diubah menjadi 5 detik
+2025-06-07 20:13:30,126 - INFO - TTL baru untuk kunci 'Sport' adalah: 5 detik
+2025-06-07 20:13:30,126 - INFO - TTL untuk kunci 'Automotive' adalah: -1 detik
+2025-06-07 20:13:30,126 - INFO - TTL untuk kunci 'Automotive' telah diubah menjadi 5 detik
+2025-06-07 20:13:30,127 - INFO - TTL baru untuk kunci 'Automotive' adalah: 5 detik
+2025-06-07 20:17:29,503 - INFO - TTL untuk kunci 'otomotif-2' adalah: -1 detik
+2025-06-07 20:17:29,552 - INFO - TTL untuk kunci 'otomotif-2' telah diubah menjadi 5 menit
+2025-06-07 20:17:29,553 - INFO - TTL baru untuk kunci 'otomotif-2' adalah: 300 menit
+2025-06-07 20:17:29,553 - INFO - TTL untuk kunci 'Home' adalah: -1 detik
+2025-06-07 20:17:29,554 - INFO - TTL untuk kunci 'Home' telah diubah menjadi 5 menit
+2025-06-07 20:17:29,555 - INFO - TTL baru untuk kunci 'Home' adalah: 300 menit
+2025-06-07 20:17:29,555 - INFO - TTL untuk kunci 'otomotif-3' adalah: -1 detik
+2025-06-07 20:17:29,556 - INFO - TTL untuk kunci 'otomotif-3' telah diubah menjadi 5 menit
+2025-06-07 20:17:29,556 - INFO - TTL baru untuk kunci 'otomotif-3' adalah: 300 menit
+2025-06-07 20:17:29,557 - INFO - TTL untuk kunci 'otomotif' adalah: -1 detik
+2025-06-07 20:17:29,557 - INFO - TTL untuk kunci 'otomotif' telah diubah menjadi 5 menit
+2025-06-07 20:17:29,557 - INFO - TTL baru untuk kunci 'otomotif' adalah: 300 menit
