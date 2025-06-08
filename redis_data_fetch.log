@@ -1,0 +1,4 @@
+2025-06-07 20:11:01,166 - INFO - Ditemukan 3 kunci di Redis
+2025-06-07 20:11:01,170 - INFO - Kunci: Home, Tipe: string, Nilai: Homepage, TTL: -1 detik
+2025-06-07 20:11:01,171 - INFO - Kunci: Sport, Tipe: string, Nilai: Sport, TTL: -1 detik
+2025-06-07 20:11:01,172 - INFO - Kunci: Automotive, Tipe: string, Nilai: Otomotif, TTL: -1 detik
