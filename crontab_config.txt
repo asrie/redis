@@ -1,0 +1,1 @@
+*/30 * * * * /bin/bash -c 'export PYENV_ROOT="$HOME/.pyenv" && export PATH="$PYENV_ROOT/bin:$PATH" && eval "$(pyenv init --path)" && pyenv activate myenv && python /usr/local/scripts/fetch_redis_data.py'
